@@ -1,0 +1,13 @@
+
+# Compiled Java files
+bin/
+*.class
+
+# VS Code and Eclipse workspace settings
+.settings/
+.vscode/
+.classpath
+.project
+
+# Logs
+*.log

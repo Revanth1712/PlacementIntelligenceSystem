@@ -1,0 +1,6 @@
+studentId,name,department,cgpa,codingScore,aptitudeScore,interviewScore,attendance,technicalSkills
+101,Deekshitha,CSE,9.56,88,82,85,92,Java|Python|SQL
+102,Rahul,ECE,8.20,75,70,72,85,Java|C
+103,Priya,CSE,7.40,85,65,70,88,Java|Python|SQL|Git
+104,Arjun,EEE,6.80,60,55,50,70,C|MATLAB
+105,Sneha,CSE,8.90,92,88,90,95,Java|Python|Spring Boot|SQL
